@@ -1,0 +1,28 @@
+{
+  "contact": [
+    {
+      "id": 2,
+      "name": "Ritik",
+      "email": "rraj56198@gmail.com",
+      "contact": "1234567890"
+    },
+    {
+      "id": 3,
+      "name": "Golu",
+      "email": "rraj56198@gmail.com",
+      "contact": "1234567890"
+    },
+    {
+      "name": "Rohit Raj",
+      "email": "rraj56198@gmail.com",
+      "contact": "1234567890",
+      "id": 4
+    },
+    {
+      "name": "Niku",
+      "email": "xyz@test.com",
+      "contact": "0987654321",
+      "id": 5
+    }
+  ]
+}
